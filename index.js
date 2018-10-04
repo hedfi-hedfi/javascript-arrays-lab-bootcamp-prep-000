@@ -7,4 +7,4 @@ function destructivelyPrependKitten(name){}
 
 function destructivelyRemoveLastKitten(){}
 
-function destructivelyPrependKitten(name){}
+function destructivelyRemoveFirstKitten(){}
